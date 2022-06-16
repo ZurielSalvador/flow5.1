@@ -75,7 +75,7 @@ El interfaz se observa de la siguiente manera:
 
 
 
-Recordar que en que la posición que se colocaron las gráficas fue haciendo lo siguiente:
+Recordatorio; La posición en que se colocaron las gráficas fue haciendo lo siguiente:
 
 
 1.Ir a Dashboard.
