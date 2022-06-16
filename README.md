@@ -75,11 +75,11 @@ El interfaz se observa de la siguiente manera:
 
 
 
-Recordar que la posición que se colocaron las gráficas fue:
+Recordar que en que la posición que se colocaron las gráficas fue haciendo lo siguiente:
 
 
-1.Dashboard
+1.Ir a Dashboard.
 
-2.En flow5 seleccionar layout
+2.En flow5 seleccionar layout.
 
 3.Con los candados puedes mover el tamaño de las gráficas de acuerdo a la anchura seleccionada anteriormente.
